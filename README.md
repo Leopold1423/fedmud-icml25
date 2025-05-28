@@ -37,14 +37,14 @@ python ./dataloader/datapartition.py
 ```
 @inproceedings{li2025fedmud,
   author       = {Shiwei Li and
-			Xiandi Luo and
-			Haozhao Wang and
-			Xing Tang and
-			Shijie Xu and
-			Weihong Luo and
-			Yuhua Li and
-			Xiuqiang He and
-			Ruixuan Li},
+                  Xiandi Luo and
+                  Haozhao Wang and
+                  Xing Tang and
+                  Shijie Xu and
+                  Weihong Luo and
+                  Yuhua Li and
+                  Xiuqiang He and
+                  Ruixuan Li},
   title        = {The Panaceas for Improving Low-Rank Decomposition in Communication-Efficient Federated Learning.},
   booktitle    = {The Forty-Second International Conference on Machine Learning, {ICML 2025}, Vancouver, Canada, 13th-19th July, 2025},
   year         = {2025},
