@@ -12,7 +12,7 @@ uv sync
 source .venv/bin/activate
 ```
 
-Alternatively， you can also use traditional `pip` instructions directly to install the necessary dependencies.
+Alternatively， you can also use command `pip` directly to install the necessary dependencies.
 
 ```bash
 pip install -r requirements.txt
